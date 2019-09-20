@@ -73,7 +73,7 @@ body {
 
 .navItem:hover {
   transition: all 0.4s ease-in;
-  width: 160px;
+  /* width: 160px; */
 }
 
 .shortcut {
